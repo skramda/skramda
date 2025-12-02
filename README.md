@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**skramda/skramda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome!  
+I create custom **FiveM scripts** focused on performance, stability, and easy configuration.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Optimized FiveM scripts (ESX / QBCore / Standalone)
+- Custom systems and QoL improvements
+- UI-focused and performance-friendly designs
+- Regular updates and active support
+
+---
+
+## 🛒 Tebex Store
+Check out my paid releases and support my work here on **[Tebex](https://skr-development.tebex.io)**
+
+---
+
+## 💬 Community & Support
+Join the community, report issues, request features, or talk directly with me on **[Discord](https://discord.gg/TbBHCTSJxA)**
+
+---
+
+## ⭐ Support the Work
+If you like my scripts, consider starring the repositories or purchasing from my Tebex shop.  
+Your support helps keep development active!
+
+---

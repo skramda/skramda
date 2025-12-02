@@ -25,5 +25,3 @@ Join the community, report issues, request features, or talk directly with me on
 ## ⭐ Support the Work
 If you like my scripts, consider starring the repositories or purchasing from my Tebex shop.  
 Your support helps keep development active!
-
----
